@@ -79,8 +79,8 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-gesture-handler": "~2.8.0",
-    "react-native-reanimated": "2.13.0",
+    "react-native-gesture-handler": "*",
+    "react-native-reanimated": "*",
     "react-native-safe-area-context": "4.4.1"
   },
   "jest": {
